@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1577717490 source:a:\downloads\mini_projet\code_source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1577717490 a:\downloads\mini_projet\header.h
+
+1577717490 source:a:\downloads\mini_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1578342044 source:a:\user\code_by_me\mini_projet\code_source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"header.h"
+
+1578242374 a:\user\code_by_me\mini_projet\header.h
+
+1578342215 source:a:\user\code_by_me\mini_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
